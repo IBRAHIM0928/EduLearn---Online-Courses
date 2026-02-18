@@ -28,4 +28,4 @@ Bash git clone https://github.com/IBRAHIM0928/EduLearn---Online-Courses.git Inst
 
 Bash npm install Run the development server:
 
-Bash npm run dev 🌐 Live Demo You can view the live project here (once deployed): 👉 https://ibrahim0928.github.io/EduLearn---Online-Courses/
+Bash npm run dev 🌐 Live Demo You can view the live project here (once deployed): 👉 [https://ibrahim0928.github.io/EduLearn---Online-Courses/](https://ibrahim0928.github.io/EduLearn---Online-Courses/)
