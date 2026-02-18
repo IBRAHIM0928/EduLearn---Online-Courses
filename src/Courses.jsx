@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { useState, useEffect } from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faInstagram, faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons';
-import pythonImg from "./assets/Python/python3.jpg"; 
+import pythonImg from "./assets/Python/Python3.jpg"; 
 import CyberSecurityImg from "./assets/Cyber Security/CyberSecurity2.jpg"; 
 import ArtificialIntelligenceImg from "./assets/Artificial Intelligence/AI 2.jpg"; 
 import CloudComputingImg from "./assets/Cloud Computing/AWS 4.jpg";
