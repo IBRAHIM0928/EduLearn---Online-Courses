@@ -1,0 +1,104 @@
+/* 
+header {
+  background: transparent; 
+  height: 80px;
+  display: flex;
+  align-items: center;
+  position: absolute; 
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+  padding: 0 50px;
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.logo-style {
+  font-weight: bold;
+  font-size: 28px;
+  color: white;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.logo-icon {
+  background-color: #f39c12;
+  width: 10px;
+  height: 22px;
+  transform: skewX(-20deg);
+  margin-right: 10px;
+  border-radius: 2px;
+}
+
+
+.btn-orange {
+  background-color: #f39c12;
+  color: white;
+  border: none;
+  padding: 8px 25px;
+  border-radius: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+
+.login-main {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
+                    url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=2000');
+  background-size: cover;
+  background-position: center;
+}
+
+
+.login-card {
+  width: 90%;
+  max-width: 650px;
+  background: rgba(20, 20, 20, 0.6);
+  backdrop-filter: blur(15px);
+  border: 3px solid #f39c12; 
+  border-radius: 40px;
+  padding: 60px 40px;
+  box-shadow: 0 0 30px rgba(243, 156, 18, 0.4);
+  text-align: center;
+  color: white;
+}
+
+
+.custom-input {
+  background: rgba(50, 50, 50, 0.9) !important;
+  border: 2px solid #f39c12 !important;
+  border-radius: 20px !important;
+  color: white !important;
+  padding: 15px !important;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.custom-input::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+
+.btn-login-submit {
+  background-color: #f39c12;
+  border: none;
+  border-radius: 12px;
+  padding: 12px 40px;
+  color: white;
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-top: 10px;
+} */
