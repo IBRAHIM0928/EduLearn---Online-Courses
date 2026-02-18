@@ -10,7 +10,7 @@ import Courses from "./Courses";
 
 function RouterApp() {
     return (
-        <Router>    
+        <Router basename="/EduLearn---Online-Courses">   
             <Routes>
                 <Route path="/" element={<Home />} />    
                 <Route path="/login" element={<LogIn/>}/>

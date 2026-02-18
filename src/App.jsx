@@ -7,7 +7,7 @@ function App() {
   
   return (
     <>
-      <title>EduLearn - Online Courses</title>
+      
       <RouterApp/>
     </>
   )
